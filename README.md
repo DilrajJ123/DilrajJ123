@@ -16,3 +16,16 @@ Here are some ideas to get you started:
 -->
 
 Hey, I'm a computer science student.
+
+I enjoy making coding projects in my spare time.
+
+Currently I am working on an event app which entails React and Node.js
+##
+I have experience in:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,react,js,css,github,haskell,mysql,nextjs,postgres,py,ubuntu&perline=3" />
+  </a>
+</p>
+
+
